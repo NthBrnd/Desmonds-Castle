@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DesmondsCastle",
+			"Path": "..\\Source\\DesmondsCastle.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DesmondsCastleEditor",
+			"Path": "..\\Source\\DesmondsCastleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

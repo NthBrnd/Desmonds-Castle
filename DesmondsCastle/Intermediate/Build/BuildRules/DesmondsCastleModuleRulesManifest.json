@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"T:\\Ue4 Project\\Desmond's Castle\\DesmondsCastle\\Source\\DesmondsCastle\\DesmondsCastle.Build.cs",
+		"T:\\Ue4 Project\\Desmond's Castle\\DesmondsCastle\\Source\\DesmondsCastle.Target.cs",
+		"T:\\Ue4 Project\\Desmond's Castle\\DesmondsCastle\\Source\\DesmondsCastleEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
