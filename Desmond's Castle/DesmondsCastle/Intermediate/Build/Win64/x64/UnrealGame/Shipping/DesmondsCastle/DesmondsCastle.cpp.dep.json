@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "t:\\ue4 project\\desmondscastle\\desmondscastle\\source\\desmondscastle\\desmondscastle.cpp",
+        "ProvidedModule": "",
+        "PCH": "t:\\ue4 project\\desmondscastle\\desmondscastle\\intermediate\\build\\win64\\x64\\desmondscastle\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "t:\\ue4 project\\desmondscastle\\desmondscastle\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\desmondscastle\\definitions.desmondscastle.h",
+            "t:\\ue4 project\\desmondscastle\\desmondscastle\\source\\desmondscastle\\desmondscastle.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
